@@ -18,3 +18,8 @@ alt - Specifies an alternate text for the image
         <p id="ft1">
             <small>1. This is a common debate - but for simplicity sake I'm just calling it this.</small>
         </p>
+
+
+# change text in a file 
+
+sed -i .bak  's/string-1/string-2/g' "filename"
