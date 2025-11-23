@@ -1,0 +1,67 @@
+<html>
+<head>
+
+<style>
+body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; max-width: 100%; overflow-x: hidden; position: relative;} 
+pre {max-width:1000px; overflow-wrap:break-word;  white-space: pre-wrap}
+</style>
+<title> (041) </title>
+</head>
+
+<body>
+<h2>men, women, powers of 2</h2>
+<h4> 31/01/25 </h2>
+<pre> 
+	To Whom it may concern,
+
+Women tend towards a more complex form of energy and men towards a more simple ones
+
+We are prime numbers and they are powers of 2 
+
+We are both perfectly symmetric and complete each other and are in an eternal war and eternal love. It’s just that our forms of it tend to be antipodal to each other
+
+We are forever trying to find a common ground. So though they think they are right and we think we are right both simultaneously are and aren’t and thus all we can do is be. 
+
+The future is always female. Then men catch up and create stability and support the women so they may develop and progress everything more towards the next evolutionary step. Myths of truth, the sun the earth, the nucleus of an atom with electrons.
+
+The men push and the women pull but it’s always just a matter of perspective both are necessary to move forward. If it was only women it would be chaos and if it was only men nothing would ever change. 
+
+God is a woman but then she turns into a man and then once it becomes stable and strong it becomes a woman once again. Not in like a weird literal transgender way, these are all metaphors. 
+
+What came first the chicken or the egg? It doesn’t matter which came first-order is an illusion-but both are needed. And in the end the chicken will become the egg (yes I meant that).
+
+When we start having more “women” around than men it means we are at a surplus of energy. The men have created sufficient stability to go to the next step in the evolution. 
+
+Science is just as metaphoric as the bible. There is so much room for interpretation and error. The mistake we always make is taking things too literally. It was a mistake in biblical times and it is the same mistake we are making now. Science is not as concrete as we pretend it is. We are all just playing pretend like how everyone back in the day was playing pretend with the biblical stories. These are all metaphors and analogies. Models of the world that we try to refine so that there is more objectivity and less interpretative freedom. 
+
+Materialism and science are just as baloney as the bible, just more complex baloney.
+
+And so to evolve I must use the model that nature has provided me and then add my own piece it push it further. 
+
+The universe exists and scaffolded dichotomy between symmetry and asymmetry, which we can represent as prime numbers and powers of two. Which one is which is but a matter of perspective. Everything is equally give and equally take.
+
+And so the interpretation defines the entity and the entity defines the interpretation. All is technically right and all is technically wrong.
+
+The upper limit of a dichotomy is actually five because there are two things that are opposite and equal, and thus there are two interpretations for these two things, and so there are four distinct things hence the fifth which is everything must necessarily be the interplay between these four.
+
+1° freedom within the five within which we exist we are for dimensional beings in a fifth dimensional universe
+
+
+The only rule is there are no rules, consistency and coherence is a matter of perspective. There’s always a way to form a dichotomy so that any given interpretation is consistent. 
+
+
+Prime tests for sequence convergence.
+
+Prime test for everything, because it represents all patterns in the most efficient manner
+
+<font size=3>     &copy;2025 3C1L4 </font>
+</pre>
+
+<hr>
+<A href="posts.html">return</A>
+<A href="(044).html">proceed</A>
+<A href="../index.html">main</A>
+<hr>
+</body>
+</html>
